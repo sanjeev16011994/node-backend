@@ -1,0 +1,23 @@
+{
+  "name": "programming-questions",
+  "version": "1.0.0",
+  "description": "This is backend for programming question app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeev16011994/node-backend.git"
+  },
+  "author": "sanjeev thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeev16011994/node-backend/issues"
+  },
+  "homepage": "https://github.com/sanjeev16011994/node-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
